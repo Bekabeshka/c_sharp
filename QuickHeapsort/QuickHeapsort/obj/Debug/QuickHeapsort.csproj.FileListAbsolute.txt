@@ -1,0 +1,7 @@
+C:\Users\HP\Documents\Visual Studio 2017\Projects\QuickHeapsort\QuickHeapsort\bin\Debug\QuickHeapsort.exe.config
+C:\Users\HP\Documents\Visual Studio 2017\Projects\QuickHeapsort\QuickHeapsort\bin\Debug\QuickHeapsort.exe
+C:\Users\HP\Documents\Visual Studio 2017\Projects\QuickHeapsort\QuickHeapsort\bin\Debug\QuickHeapsort.pdb
+C:\Users\HP\Documents\Visual Studio 2017\Projects\QuickHeapsort\QuickHeapsort\obj\Debug\QuickHeapsort.csprojAssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2017\Projects\QuickHeapsort\QuickHeapsort\obj\Debug\QuickHeapsort.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Visual Studio 2017\Projects\QuickHeapsort\QuickHeapsort\obj\Debug\QuickHeapsort.exe
+C:\Users\HP\Documents\Visual Studio 2017\Projects\QuickHeapsort\QuickHeapsort\obj\Debug\QuickHeapsort.pdb
